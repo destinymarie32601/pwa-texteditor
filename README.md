@@ -9,7 +9,7 @@ Link to application : https://vast-reaches-40801-32f7c7cae040.herokuapp.com/
 Link to GitHub repo: https://github.com/destinymarie32601/pwa-texteditor
 
 ## Website Screenshot 
-[!Alt Text](/assets/screenshot.png)
+![Alt Text](/assets/screenshot.png)
 
 ## Usage
 To use this application enter npm install in the terminal, and npm start to start it! You can view this application and use it in the browser and install it by clicking the 'Install' button, and use it offline! The user can type in code and see the javascript syntax and highlighting.
